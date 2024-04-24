@@ -1,0 +1,87 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Danh Lam 1</string>
+    <string name="affirmation2">Danh Lam 2</string>
+    <string name="affirmation3">Danh Lam 3</string>
+    <string name="affirmation4">Danh Lam 4</string>
+    <string name="affirmation5">Danh Lam 5</string>
+    <string name="affirmation6">Danh Lam 6</string>
+    <string name="affirmation7">Danh Lam 7</string>
+    <string name="affirmation8">Danh Lam 8</string>
+    <string name="affirmation9">Danh Lam 9</string>
+    <string name="affirmation10">Danh Lam 10</string>
+    <string name="affirmation11">Danh Lam 11</string>
+    <string name="affirmation12">Danh Lam 12</string>
+    <string name="affirmation13">Danh Lam 13</string>
+    <string name="affirmation14">Danh Lam 14</string>
+    <string name="affirmation15">Danh Lam 15</string>
+    <string name="affirmation16">Danh Lam 16</string>
+    <string name="affirmation17">Danh Lam 17</string>
+    <string name="affirmation18">Danh Lam 18</string>
+    <string name="affirmation19">Danh Lam 19</string>
+    <string name="affirmation20">Danh Lam 20</string>
+
+
+
+    <string name="affirmation1_desc">Vịnh Hạ Long</string>
+    <string name="affirmation2_desc">Sapa, Lào Cai</string>
+    <string name="affirmation3_desc">Phong Nha - Kẻ Bàng, Quảng Bình</string>
+    <string name="affirmation4_desc">Huế, Thừa Thiên-Huế</string>
+    <string name="affirmation5_desc">Hội An, Quảng Nam</string>
+    <string name="affirmation6_desc">Đà Nẵng</string>
+    <string name="affirmation7_desc">Nha Trang, Khánh Hòa</string>
+    <string name="affirmation8_desc">Đảo Phú Quốc, Kiên Giang </string>
+    <string name="affirmation9_desc">Mũi Né, Bình Thuận</string>
+    <string name="affirmation10_desc">Đà Lạt, Lâm Đồng</string>
+    <string name="affirmation11_desc">Sông Hương, Thừa Thiên-Huế</string>
+    <string name="affirmation12_desc">Côn Đảo, Bà Rịa-Vũng Tàu</string>
+    <string name="affirmation13_desc">Biển Cửa Lò, Nghệ An</string>
+    <string name="affirmation14_desc">Biển Lý Sơn, Quảng Ngãi</string>
+    <string name="affirmation15_desc">Biển Núi Cô Tiên, Bà Rịa-Vũng Tàu</string>
+    <string name="affirmation16_desc">Biển Quy Nhơn, Bình Định</string>
+    <string name="affirmation17_desc">Hồ Tuyền Lâm, Lâm Đồng</string>
+    <string name="affirmation18_desc">Biển Đà Nẵng</string>
+    <string name="affirmation19_desc">Biển Nha Trang</string>
+    <string name="affirmation20_desc">Biển Hồ Cốc, Bình Thuận</string>
+
+
+
+    <string name="affirmation1_text">Vịnh Hạ Long - Di sản thiên nhiên thế giới, nơi hòa quyện giữa hùng vĩ núi đá và biển cả trong xanh.</string>
+    <string name="affirmation2_text">Sapa - Thiên đường bản làng bậc thang, nằm dưới bóng những đỉnh núi bạt ngàn, là điểm đến lý tưởng cho những ai yêu thiên nhiên và văn hóa dân tộc.</string>
+    <string name="affirmation3_text">Phong Nha - Kẻ Bàng - Kỳ quan thiên nhiên với những hang động kỳ vĩ và vẻ đẹp hoang sơ chưa được khám phá hết.</string>
+    <string name="affirmation4_text">Huế - Thành phố cổ kính, là biểu tượng của văn hóa và lịch sử Việt Nam với các công trình kiến trúc độc đáo và hùng vĩ.</string>
+    <string name="affirmation5_text">Hội An - Phố cổ lãng mạn với kiến trúc cổ kính, đèn lồng lung linh và không khí yên bình của một thị trấn ven sông."</string>
+    <string name="affirmation6_text">Đà Nẵng - Thành phố sôi động ven biển với bãi biển dài, cảnh đẹp núi non và những công trình kiến trúc hiện đại.</string>
+    <string name="affirmation7_text">Nha Trang - Thiên đường biển tuyệt vời với bãi biển trải dài, nước biển trong xanh và các hoạt động giải trí sôi động.</string>
+    <string name="affirmation8_text">Đảo Phú Quốc - Thiên đường nghỉ dưỡng với bãi biển cát trắng, nước biển trong xanh và các khu resort sang trọng.</string>
+    <string name="affirmation9_text">"Mũi Né - Thiên đường lướt sóng và thể thao biển với cát trắng, nước biển trong xanh và cảnh đẹp sa mạc độc đáo.</string>
+    <string name="affirmation10_text">Đà Lạt - Thành phố sương mù và hoa đào, nằm ẩn mình giữa những dãy núi hùng vĩ, là nơi lý tưởng để thư giãn và tận hưởng thiên nhiên.</string>
+    <string name="affirmation11_text">Sông Hương - Dòng sông huyền thoại với vẻ đẹp mộng mơ và huyền bí, là nguồn cảm hứng cho nhiều tác phẩm văn học và nghệ thuật.</string>
+    <string name="affirmation12_text">Côn Đảo - Quần đảo hoang sơ, nơi chứa đựng nhiều di tích lịch sử và cảnh đẹp biển hùng vĩ, thu hút du khách bởi vẻ đẹp hoang sơ và yên bình.</string>
+    <string name="affirmation13_text">Biển Cửa Lò - Bãi biển trải dài với cát mịn và nước biển trong xanh, là điểm đến yên bình cho những chuyến du lịch nghỉ dưỡng.</string>
+    <string name="affirmation14_text">Biển Lý Sơn - Vùng biển hùng vĩ với đá đỏ và nước biển trong xanh, là điểm đến lý tưởng cho những ai muốn khám phá vẻ đẹp hoang sơ của biển Đông.</string>
+    <string name="affirmation15_text">Biển Núi Cô Tiên - Kết hợp giữa núi non và biển cả, tạo nên bức tranh thiên nhiên hùng vĩ và lãng mạn, là điểm đến tuyệt vời cho kỳ nghỉ cuối tuần</string>
+    <string name="affirmation16_text">Biển Quy Nhơn - Bãi biển đẹp và yên bình với cát trắng và nước biển trong xanh, là nơi lý tưởng để thư giãn và tận hưởng không gian biển.</string>
+    <string name="affirmation17_text">Hồ Tuyền Lâm - Hồ nước trong xanh bên dãy núi uốn lượn, là điểm đến lý tưởng cho những chuyến du lịch thư giãn và tận hưởng không gian thiên nhiên.</string>
+    <string name="affirmation18_text">Biển Đà Nẵng - Bãi biển dài với cát trắng và nước biển trong xanh, là điểm đến phổ biến cho du khách trong và ngoài nước với nhiều hoạt động giải trí và thể thao biển.</string>
+    <string name="affirmation19_text">Biển Nha Trang - Thiên đường biển nổi tiếng với bãi biển trải dài và nước biển trong xanh, là điểm đến lý tưởng cho những chuyến du lịch nghỉ</string>
+    <string name="affirmation20_text">Biển Hồ Cốc - Bãi biển yên bình với cát trắng và nước biển trong xanh, nằm kín trong vùng đất hoang sơ của Bình Thuận, là điểm đến lý tưởng để tận hưởng sự bình yên của biển cả và thiên nhiên.</string>
+
+
+
+</resources>
